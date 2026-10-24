@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [The Blog Hub](https://github.com/WilsonRodriguezz/React-BlogSiteApp)
 
-- 👨‍💻 All of my projects are available at [https://wilsonrodriguezzportfolio.onrender.com/](https://wilsonrodriguezzportfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://wilsonrodriguez.me/)
 
 - 📝 I regularly write posts about my work at
   [https://www.linkedin.com/in/wilson-rodriguez-ar1601042004/](https://www.linkedin.com/in/wilson-rodriguez-ar1601042004/)
